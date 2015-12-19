@@ -4,14 +4,18 @@ Warning: Please follow the steps in Sequence.
 Folders must be placed in given directory only.
 
 
-To setup Scrapy in your system consider this tutorial first:
+To setup Scrapy in your system consider this tutorial:
 
 http://doc.scrapy.org/en/latest/intro/install.html
 
-To configure scrapyd service consider this tutorial first:
+To configure scrapyd service consider this tutorial:
 
 1. http://stackoverflow.com/questions/28852258/scrapy-script-called-via-shell-exec-doesnt-perform
 2. http://stackoverflow.com/questions/22646323/windows-scrapyd-deploy-is-not-recognized
+
+To setup curl in your system consider this tutorial:
+
+http://stackoverflow.com/questions/21694051/scrapyd-where-do-i-get-to-see-the-output-of-my-crawler-once-i-schedule-it-using
 
 
 The installation steps assume that you have the following things installed:
