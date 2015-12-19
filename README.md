@@ -5,14 +5,17 @@ Folders must be placed in given directory only.
 
 
 To setup Scrapy in your system consider this tutorial first:
+
 http://doc.scrapy.org/en/latest/intro/install.html
 
 To configure scrapyd service consider this tutorial first:
+
 1. http://stackoverflow.com/questions/28852258/scrapy-script-called-via-shell-exec-doesnt-perform
 2. http://stackoverflow.com/questions/22646323/windows-scrapyd-deploy-is-not-recognized
 
 
 The installation steps assume that you have the following things installed:
+
 1. Scrapy 1.0 or above.
 2. WAMP server (assuming u r using windows on your system).
 3. Python 2.7
