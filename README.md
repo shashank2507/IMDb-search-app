@@ -31,6 +31,7 @@ In this tutorial, I’ll assume that everthing above is already installed on you
 8. And follow the images in sequence available in "screens" folder to proceed.
 
 About Frontend:
+
 1. Theme used: tumblr theme with pure css.
 2. php based.
 3. On submitting actor/actress name in dashboard. It generates "input.txt" in "c:/google".
@@ -38,6 +39,7 @@ About Frontend:
 5. The result is printed in table using the "it.json".
 
 About Backend:
+
 1. Scrapy + Python based.
 2. On execution it recursively scrape pages from IMDb to get the data.
 3. The actor/ actress name from frontend is converted into search string.
