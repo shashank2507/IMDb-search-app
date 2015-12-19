@@ -15,6 +15,7 @@ The installation steps assume that you have the following things installed:
 2. WAMP server (assuming u r using windows on your system).
 3. Python 2.7
 4. Configured Scrapyd service for deploying scrapy project. (open browser and type htpp://localhost:6800 to check).
+5. Download curl for windows 7.(required for execute in php the scrapy command).
 
 In this tutorial, I’ll assume that everthing above is already installed on your system.
 
